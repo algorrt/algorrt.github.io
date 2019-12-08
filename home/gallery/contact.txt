@@ -1,0 +1,37 @@
+<div class="row">
+  <div class="section-heading">
+
+  <h1 style="text-align:left;">Contact</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+      <br><li>
+        <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i></br>
+        <span id="person-email" itemprop="email"><a href="mailto:rajanikanttenguria@gmail.com">rajanikanttenguria@gmail.com</a></span>
+      </li>
+      
+      <li>
+        <i class="fa-li fa fa-phone fa-2x" aria-hidden="true"></i></br>
+        <!-- <span id="person-telephone" itemprop="telephone"><a href="tel:%28480%29%20275-9633">(480) 275-9633</a></span> -->
+        <span id="person-telephone" itemprop="telephone">+91 7977 622 418</a></span>
+      </li>
+	  
+      <!--<li>>
+        <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i></br>
+        <span id="person-address" itemprop="address">X </span>
+      </li>-->
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</div>

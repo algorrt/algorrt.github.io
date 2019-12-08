@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>https://algorrt.github.io/authors/</link>
+      <atom:link href="https://algorrt.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://algorrt.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://algorrt.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>admin</title>
+      <link>https://algorrt.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://algorrt.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://algorrt.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://algorrt.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://algorrt.github.io/authors/algorrt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://algorrt.github.io/authors/algorrt/</guid>
+      <description>&lt;p&gt;Currently working in Capgemini India as Sr. Data &amp;amp; Security Analyst. Previously, I have worked as a Summer Research Intern
+in Bhabha Atomic Research Centre at Dhruva Research Reactor. I graduated in Electronics &amp;amp; Telecommunication from 
+Vidyalankar Institute Of Technology.&lt;/p&gt;
+&lt;p&gt;What a time to live in !&lt;/p&gt;
+&lt;p&gt;I am excited by the possibilities in Robotics, Machine Learning and allied areas. I have always been an implmenter. More 
+can be found in Projects tab.Updated resume can be found here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
